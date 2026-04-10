@@ -119,16 +119,7 @@ const utkarsh = {
 
 ---
 
-<!-- Trophies -->
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Utkarsh7368&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
 
 <!-- Snake Animation -->
 ## 🐍 Watch the Contribution Snake
