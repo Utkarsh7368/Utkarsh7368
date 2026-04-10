@@ -103,13 +103,13 @@ const utkarsh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh7368&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh7368&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh7368&theme=tokyonight&hide_border=true&show_icons=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh7368&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Utkarsh7368&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Utkarsh7368&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -148,7 +148,6 @@ const utkarsh = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/Utkarsh7368/Utkarsh7368/output/github-snake.svg" />
 </picture>
 
-> **Note:** To activate the snake animation, create a GitHub Action in your profile repo. See setup instructions below. 👇
 
 </div>
 
