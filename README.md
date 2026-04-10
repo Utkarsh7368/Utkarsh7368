@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/utkarshgupta.io)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/devutkarshg)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.utkarshg@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Utkarsh7368&icon=6&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Utkarsh7368&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -103,9 +103,7 @@ const utkarsh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh7368&theme=tokyonight&hide_border=true&show_icons=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh7368&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Utkarsh7368&theme=tokyonight&hide_border=true&mode=weekly" height="180"/>
 
 </div>
 ---
