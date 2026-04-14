@@ -103,9 +103,9 @@ const utkarsh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh7368&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh7368&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh7368&layout=compact&theme=transparent&bg_color=00000000&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh7368&layout=compact&theme=radical&hide_border=true" height="160"/>
 
 </div>
 
