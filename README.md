@@ -103,9 +103,10 @@ const utkarsh = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Utkarsh7368&theme=tokyonight&hide_border=true&mode=weekly" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh7368&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
 </div>
+
 ---
 
 <!-- Activity Graph -->
