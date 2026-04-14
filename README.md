@@ -103,7 +103,6 @@ const utkarsh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh7368&theme=tokyonight&hide_border=true&show_icons=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh7368&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
 
