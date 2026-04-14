@@ -101,8 +101,11 @@ const utkarsh = {
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh7368&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://streak-stats.demolab.com?user=Utkarsh7368&theme=tokyonight&hide_border=true" height="180"/> </div>
+<div align="center"> 
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh7368&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh7368&layout=compact&theme=transparent&hide_border=true" height="160"/> 
 
+</div>
 
 ---
 
