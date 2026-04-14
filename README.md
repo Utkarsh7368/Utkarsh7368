@@ -113,7 +113,8 @@ const utkarsh = {
 
 <div align="center">
 
-![](https://github-profile-3d-contrib.vercel.app/api?username=Utkarsh7368)
+![Utkarsh's GitHub activity streak](https://streak-stats.demolab.com?user=Utkarsh7368&theme=tokyonight&hide_border=true)
+
 
 
 </div>
