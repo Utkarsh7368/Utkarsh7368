@@ -113,7 +113,7 @@ const utkarsh = {
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkarsh7368&theme=tokyonight)
+[![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh7368&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
